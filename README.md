@@ -8,7 +8,7 @@
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://simple-clock-abhijeetjadhav.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://shravanichavan287.github.io/Simple_Clock/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
