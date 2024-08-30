@@ -30,12 +30,12 @@ To run **Portfolio** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/abhijeet1681/Simple_Clock.git
+git clone https://github.com/Shravanichavan287/Simple_Clock.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/abhijeet-jadhav-30b625211).
+If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/).
 
 ### License
 
